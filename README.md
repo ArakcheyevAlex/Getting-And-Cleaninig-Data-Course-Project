@@ -40,7 +40,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ## How to create the tidy data set
 
-1. clone this repository: `git clone https://github.com/ArakcheyevAlex/Getting-And-Cleaninig-Data-Course-Project`
+1. clone this repository: `git clone https://github.com/ArakcheyevAlex/Getting-And-Cleaninig-Data-Course-Project.git`
 2. download [compressed raw data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 3. unzip raw data and copy the directory `UCI HAR Dataset` to the parent directory
 4. open a R console and set the working directory to the repository root (use setwd())
